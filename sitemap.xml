@@ -36,6 +36,11 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.struxura.com/accompagnement-strategique.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.struxura.com/faq.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -132,6 +137,11 @@
   </url>
   <url>
     <loc>https://www.struxura.com/en/domains.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.struxura.com/en/strategic-advisory.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
