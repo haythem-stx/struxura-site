@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", () => {
       label: "Loyalty et Intelligence Consommateur",
       audit: { code: "STX-01", name: "Audit Data Consommateur" },
       build: [
-        { code: "STX-02", name: "Infrastructure Loyalty WhatsApp-First" },
+        { code: "STX-02", name: "Infrastructure Loyalty Conversationnelle" },
         { code: "STX-03", name: "Mécanisme Code In-Pack" },
         { code: "STX-04", name: "Dashboard Intelligence Consommateur" }
       ]
